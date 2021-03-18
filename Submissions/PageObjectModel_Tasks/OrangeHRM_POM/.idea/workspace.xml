@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74b953e9-03a0-4f5e-bbf8-d4a756cf11dd" name="Default Changelist" comment="-git commit -main &quot;OrangeHrm_Pom&quot;">
-      <change afterPath="$PROJECT_DIR$/allure-results/41600f50-8817-4af0-9cbb-c7b69e0014ef-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/55ff4393-e0db-4c17-a357-41ab11e6d352-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5adc725b-2b82-4faf-b649-bd731cd7444c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5cc6e758-edeb-44e0-a4ca-cf390fc785b6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b1b1e405-f61e-4770-864d-ad533a3b77cd-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="74b953e9-03a0-4f5e-bbf8-d4a756cf11dd" name="Default Changelist" comment="-git commit -main &quot;OrangeHrm_Pom&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
